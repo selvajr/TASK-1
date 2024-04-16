@@ -17,7 +17,7 @@ This one contains two TASKS :
 ](https://medium.com/@magicalselva/objects-and-its-internal-representation-in-javascript-3e259329af38)
 
 
-Thanks for spending your valuable time on eveluating my task
+Thanks for spending your valuable time on eveluating my task,
 awaiting for your valuable feedback.
 
                             Thankyou !!
